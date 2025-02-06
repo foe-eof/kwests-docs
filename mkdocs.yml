@@ -1,5 +1,5 @@
 site_name: template-docs
-# repo_url: TODO
+repo_url: https://github.com/foe-eof/kwests-docs
 edit_uri: blob/master/docs/
 validation:
   omitted_files: warn
